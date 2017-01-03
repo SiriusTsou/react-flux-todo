@@ -21,6 +21,7 @@ Please check out the [Official Site Setup](https://facebook.github.io/react/docs
 ## References
 1. [React 官方網站](https://facebook.github.io/react/)
 2. [flux 官方文件](http://facebook.github.io/flux/)
+3. [從零開始學 ReactJS](https://github.com/kdchang/reactjs101)
 
 ## License
 MIT
